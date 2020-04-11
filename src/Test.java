@@ -15,4 +15,7 @@ public class Test {
         System.out.println("nihao");
     }
     public void fanhui(){}
+    public void fz(){
+
+    }
 }
