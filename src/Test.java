@@ -17,4 +17,8 @@ public class Test {
     public void fanhui(){
         System.out.println("hah");
     }
+
+    public void fz(){
+
+    }
 }
